@@ -1,0 +1,37 @@
+.body{
+    /* 
+     
+    margin-left: 20%; 
+   
+    padding-left: auto; 
+    justify-content: center;
+     align-content: center; margin-top: 30%;
+     margin-left: 40%; display: flex;*/
+     margin-top: auto;
+     margin: auto;
+     height: 100vh;
+  
+
+}
+
+*
+
+
+.card{ /* center and adds margins to card w/ CSS*/
+    
+     width: auto;
+     height: auto;
+    margin: auto;
+    justify-content: center;
+   
+}
+
+
+
+
+.card-footer{
+      justify-content: space-between;
+      align-content: flex-end;
+ 
+}
+
